@@ -12,7 +12,8 @@ iOS Development Target: iOS 13.2
 # Features
 VStack()     
 Button()   
-Toggle()  
+Toggle() 
+LinearGradient()    
 
 # Style
 ![text](https://github.com/nataliawcislo/ButtonUI/blob/master/Button.gif)
