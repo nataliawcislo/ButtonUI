@@ -12,7 +12,7 @@ iOS Development Target: iOS 13.2
 # Features
 VStack()     
 Button()   
-Toggle() 
+Toggle()  
 LinearGradient()    
 
 # Style
